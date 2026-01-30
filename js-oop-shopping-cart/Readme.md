@@ -1,4 +1,4 @@
-# OOJ Shopping Cart
+# OOP Shopping Cart
 
 A practical implementation of **Object-Oriented Programming (OOP)** in JavaScript. This project demonstrates how to use classes, constructors, and methods to manage a shopping cart system.
 
