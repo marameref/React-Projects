@@ -11,4 +11,4 @@ A practical implementation of **Object-Oriented Programming (OOP)** in JavaScrip
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/shopping-cart-ooj.git](https://github.com/your-username/shopping-cart-ooj.git)
+   git clone [https://github.com/your-username/js-oop-shopping-cart.git](https://github.com/your-username/js-oop-shopping-cart.git)
